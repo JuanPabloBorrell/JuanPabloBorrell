@@ -11,7 +11,7 @@ very important to me. Another strong point would be to create trusting relations
 Knowledge:
 Azure DevOps, Cloud (Azure, AWS, GCP), terraform, python, powershell, jenkins, git, github, docke, kubernetes.
 
-Hobbies: playing football with my children, reading, watching football, cycling, watching series and films as a family.
+Hobbies: playing football with my children, reading, watching football, cycling, watching series and films with the family.
 
 How to reach me?
 
