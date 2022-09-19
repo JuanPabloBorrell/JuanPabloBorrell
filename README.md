@@ -13,7 +13,7 @@ Azure DevOps, Cloud (Azure, AWS, GCP), terraform, python, powershell, jenkins, g
 
 Hobbies: playing football with my children, reading, watching football, cycling, watching series and films as a family.
 
-How to reach me
+How to reach me:
     Website: https://jpborrell.pythonanywhere.com/ (personal development project)
     E-mail: juanpabloborrell@gmail.com
 
