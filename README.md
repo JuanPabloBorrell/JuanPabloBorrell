@@ -9,7 +9,7 @@ My personality I could describe as dynamic, self-taught, always willing to liste
 very important to me. Another strong point would be to create trusting relationships with my peers and superiors.
 
 Knowledge:
-Azure DevOps, Cloud (Azure, AWS, GCP), terraform, python, powershell, jenkins, git, github, docke, kubernetes.
+Azure DevOps, Cloud (Azure, AWS, GCP), terraform, python, powershell, jenkins, git, github, docker, kubernetes.
 
 Hobbies: playing football with my children, reading, watching football, cycling, watching series and films with the family.
 
